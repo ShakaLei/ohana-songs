@@ -7,7 +7,7 @@
 ## Play sheet
 | | |
 |---|---|
-| **Key** | **D mixolydian** (tonic D, with the ♭7 = C — that's the "lift-off" color) |
+| **Key** | **D mixolydian** (tonic D, with the ♭7 = C — that's the "lift-off" color). *Sibling loop to 🌍 A Planet We Share As One (G major): same C–G–D chords, but Planet rests on G = I–V–IV, while The Leap rests on D — hence D mixolydian. Not a contradiction, just two homes for one loop.* |
 | **Feel / tempo** | rolling folk anthem · ~100 bpm · 4/4 |
 | **Chord spine** | **C – G – D** loop = *A Planet We Share As One* canon 🌍 (woven, never altered); bridge **Em – C – D** |
 | **Capo** | **Uke: none.** Guitar: none. *(Optional last-chorus lift to E → **capo 2**, keep the same C-G-D-Em shapes.)* |
@@ -110,3 +110,5 @@ it's how we properly deliver the gift the world gave me.
 
 ---
 *Harmony note (BACH): key sits in **D mixolydian** — the C major (♭VII) is a mode color, not a key change; resolve every phrase home to D. Canon C–G–D loop held pure. 🎼*
+
+*Sibling note (BACH, 2026-09-23): this is the same C–G–D loop as 🌍 **A Planet We Share As One**, now artist-blessed **G major** (there it feels I–V–IV, resting on G). The Leap rests on D instead, so it reads **D mixolydian** — one loop, two tonics, no contradiction.*

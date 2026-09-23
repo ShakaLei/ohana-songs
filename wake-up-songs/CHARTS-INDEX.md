@@ -37,7 +37,7 @@ Six chords total. Learn these and you can play the whole cycle.
 - Every chord diatonic + open on the uke. No barre chords anywhere on ʻukulele.
 
 ## Key conflicts resolved
-1. **Song 1 tonic** — the C in a "D song" isn't a key change; it's the **mixolydian ♭VII** color. Charted the whole song resolving home to **D**, canon C–G–D loop held pure.
+1. **Song 1 tonic** — the C in a "D song" isn't a key change; it's the **mixolydian ♭VII** color. Charted the whole song resolving home to **D**, canon C–G–D loop held pure. *Sibling loop to 🌍 A Planet We Share As One (now artist-blessed **G major**, 2026-09-23): same C–G–D chords — Planet rests on G (I–V–IV), The Leap rests on D (hence D mixolydian). One loop, two tonics, not a contradiction.*
 2. **Song 3 bridge D** — flagged as a **major "2"** (D, not Dm). It's the *Butterflies* loop borrowed a step high; cleanest read is a brief lift into **G's world (I–vi–IV–V)**, with the final D acting as a pivot back to the home C. Noted on the chart so no one "corrects" the D to minor by mistake.
 
 *No canon was touched. Play them slow if you want — MUSICO-LAB's tempos are hammock-loose. 🎼🌺*

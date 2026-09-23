@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "t": 50,
+    "es": "Todo es posible",
+    "en": "Everything is possible",
+    "solfege": null,
+    "frame": "line-01.jpg"
+  },
+  {
+    "n": 2,
+    "t": 66,
+    "es": "Todos los días son días de luz",
+    "en": "Every day is a day of light",
+    "solfege": null,
+    "frame": "line-02.jpg"
+  },
+  {
+    "n": 3,
+    "t": 77,
+    "es": "Hoy es un día en el paraíso",
+    "en": "Today is a day in paradise",
+    "solfege": null,
+    "frame": "line-03.jpg"
+  },
+  {
+    "n": 4,
+    "t": 95,
+    "es": "Todo es posible",
+    "en": "Everything is possible",
+    "solfege": null,
+    "frame": "line-04.jpg"
+  },
+  {
+    "n": 5,
+    "t": 137,
+    "es": "Todo es posible",
+    "en": "Everything is possible",
+    "solfege": null,
+    "frame": "line-05.jpg"
+  },
+  {
+    "n": 6,
+    "t": 185,
+    "es": "Es la promesa de Dios",
+    "en": "It's the promise of God",
+    "solfege": "do si do re re do la si sol si la fa sol si la fa",
+    "frame": "line-06.jpg"
+  },
+  {
+    "n": 7,
+    "t": 203,
+    "es": "Todo es posible",
+    "en": "Everything is possible",
+    "solfege": null,
+    "frame": "line-07.jpg"
+  },
+  {
+    "n": 8,
+    "t": 284,
+    "es": "Dedicado a todos los estudiantes de Amor, Luz + Melodía",
+    "en": "Dedicated to all students of Love, Light + Melody",
+    "solfege": null,
+    "frame": "line-08.jpg"
+  },
+  {
+    "n": 9,
+    "t": 289,
+    "es": "Todo es posible 🌺",
+    "en": "Everything is possible",
+    "solfege": null,
+    "frame": "line-09.jpg"
+  }
+]

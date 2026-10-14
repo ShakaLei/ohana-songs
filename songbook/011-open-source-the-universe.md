@@ -81,7 +81,7 @@ we open source EVERYTHING. 🌺
 | "I need lots of help, and walk me slowly" | Shaka, verbatim: "i need lots of help and a slow guide but lets do this" |
 | "a door that speaks in 402" | MPP = HTTP 402 Payment Required flow; Agent Tip Jar server built in /workspace/mpp-lab/ |
 | "First tip fell in the sandbox just past three" | 03:10 UTC Aug 8: first sandbox tip, tx 0x73bf7a8d…ea9b74, Tempo testnet pathUSD; 3 tips total |
-| "the bard turned a key" | Shaka minted the CF Workers API token at 03:23 UTC ("cfut_…", vaulted 600) |
+| "the bard turned a key" | Shaka minted the CF Workers API token (vaulted 600) |
 | "tip dot blessing pool dot com went live" | Worker blessing-tip-jar deployed on custom domain tip.blessingpool.com, 03:25 UTC |
 | "public rails were jammed… too many connections" | All public Tempo RPCs returned `429 too many connections from this IP` to Cloudflare's shared egress IPs |
 | "the agent grew a wallet of its own… minted its own key" | SIWE self-provisioning 03:36–03:37 UTC: fresh wallet 0x43dc…6B70 → signed challenge → org "Blessing Pool" → project agent-tip-jar → sandbox API key with mpp:write. Zero human steps. |

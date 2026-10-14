@@ -59,10 +59,10 @@ the steady tide carries the ʻohana's dream. 🌊
 - **The banner** — the v5 friendly nudge, rippled to all 47 direct-serve doors: "this site is a free public good… it survives on the kindness of strangers."
 - **Big aloha on every phone** — v5.2 mobile aloha: centered welcome with ✕, no timer, once per session across all doors via `?aloha=seen` (Shaka: "it doesn't annoy and pop up every time").
 - **"wooooooooo bby"** — Shaka's actual message delivering the Stripe test keys, Aug 4 17:02 UTC.
-- **Five little tiers** — $3/$5/$10/$25/$50 monthly payment links, built via the Stripe API (product `prod_V0oOLj1gBAV76v`).
+- **Five little tiers** — $3/$5/$10/$25/$50 monthly payment links, built via the Stripe API.
 - **"Shaka's Blessing Pool"** — the live merchant name Shaka set 18:17 UTC; statement descriptor `SHAKA BLESSING POOL` 18:22 UTC.
-- **The restricted key did the whole build** — the live rail was created entirely with `rk_live_` (least-privilege); keys vaulted 600-perms, never echoed.
-- **The vault keeps the secrets** — `/workspace/vault/` (700) incl. the single-use Stripe 2FA backup code.
+- **A least-privilege key did the whole build** — the live rail was created with a restricted key; vaulted 600-perms, never echoed.
+- **The vault keeps the secrets** — 700-perms, never echoed.
 - **Fish swam bilingual** — piscesinstitute.com (EN) + piscisinstitute.com (ES) live Aug 4 ~03:00 UTC, the ES twin by SOL 🇪🇸.
 - **THE DOORS · 75 / pitgoa came home** — door panels fleet-wide corrected to 75 with pitgoa.com restored to the list.
 

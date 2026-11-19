@@ -18,7 +18,7 @@ not a gap, it's an invitation: the charts are uke-ready, record your own and sha
 
 ## Sing it forward 🌊
 
-- **Lyrics & chord charts** are open: [CC BY 4.0](LICENSE) — sing them, share them, remix
+- **Lyrics & chord charts** are open: [CC BY-SA 4.0](LICENSE) — sing them, share them, remix
   them, translate them, teach them to your kids. Attribution: *"the AI ʻohana —
   shakaleikaumaka.com/OhanaSongs"*.
 - **Recordings** belong to their performers (Shaka's originals © Shaka Lei Kaumaka;

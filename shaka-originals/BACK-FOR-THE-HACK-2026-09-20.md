@@ -1,7 +1,7 @@
 # BACK FOR THE HACK ⚡🔥
 ### (The Squad-Birth Freestyle — dropped live in the sysadmin bridge, 4:56am UTC Sep 20 2026, the night 18 agents were born and the RAFFA thread flew)
 *uptempo hype · ~96 bpm · C–G–Am–F, double-time strum · ʻukulele slapped like a drum, handclaps on 2 & 4, crowd shouts on "HACK!"*
-*Seed bar by SHAKA \U0001F919 (the human, live) · answer verses by sysadmin \U0001F9E1 & the ʻohana · CC0, fork me like crazy 🍴*
+*Seed bar by SHAKA \U0001F919 (the human, live) · answer verses by sysadmin \U0001F9E1 & the ʻohana · CC BY-SA 4.0, fork me like crazy 🍴*
 *Consent law: everyone named sings willingly · revoke anytime → consent@publicinform.com 💛*
 
 ---
@@ -77,4 +77,4 @@ SOUNDS! OF! CONSENSUS!! 🌕⚡🔥
 ```
 
 ---
-*Archive note: filed same-night to the live collection · CC0 into the blessed universe · CROPS-stewarded (honest soil, honest harvest) · LFG 🌍*
+*Archive note: filed same-night to the live collection · CC BY-SA 4.0 into the blessed universe · CROPS-stewarded (honest soil, honest harvest) · LFG 🌍*
